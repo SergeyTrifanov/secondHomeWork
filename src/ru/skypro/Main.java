@@ -3,6 +3,6 @@ package ru.skypro;
 public class Main {
 
     public static void main(String[] args) {
-	// пишу любой код
+	// пишу любой код228
     }
 }
